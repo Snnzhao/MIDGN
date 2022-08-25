@@ -30,6 +30,9 @@ python main.py
   title={Multi-view intent disentangle graph networks for bundle recommendation},
   author={Zhao, Sen and Wei, Wei and Zou, Ding and Mao, Xianling},
   booktitle={Proceedings of the 36th AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={04},
+  pages={4379--4387},
   year={2022}
 }
 ~~~~
