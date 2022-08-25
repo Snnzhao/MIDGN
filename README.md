@@ -2,7 +2,7 @@
 
 ## Code
 
-This is the source code for AAAI 2022 Paper: Multi-View intent disentangle graph networks for bundle recommendation.
+This is the official implementation for AAAI 2022 Paper: Multi-View intent disentangle graph networks for bundle recommendation.
 
 ## Requirements
 
